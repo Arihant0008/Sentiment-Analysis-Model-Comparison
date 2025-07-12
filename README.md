@@ -67,6 +67,6 @@ The **nlptown multilingual BERT model achieved the highest accuracy (86%)**, dem
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Sentiment-Analysis-Model-Comparison.git
-cd Sentiment-Analysis-Model-Comparison
+git clone https://github.com/Arihant0008/Sentiment-Analysis-Model-Comparison
+
 ```
